@@ -7,7 +7,7 @@ All the assignments are written within the program langauge [Processing](https:/
 
 ## Background Infomation  
  Before working on theses projects I had a small understanding of coding logic, but no knowledge of any programming language. I had in the past attempted to learn a coding language but had not gone anywhere with outside of the small basic tutorials I could find on the internet.   
- For my progess I have reached today, I give credit to: **Rhea Vichot, _my Proffessor_ & my Dad** both who helped me to get where I am today. Without their help I don't think I could have come to an understanding and gained a new found passion for programming. 
+ For my progess I have reached today, I give credit to: **Rhea Vichot, _my Proffessor_ & my Dad** both who helped me to get where I am today. Without their help I don't think I could have come to find new found passion for programming. 
  
 
  
