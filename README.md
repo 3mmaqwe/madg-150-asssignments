@@ -9,6 +9,17 @@ All the assignments are written within the program langauge [Processing](https:/
  Before working on theses projects I had a small understanding of coding logic, but no knowledge of any programming language. I had in the past attempted to learn a coding language but had not gone anywhere with outside of the small basic tutorials I could find on the internet.   
  For my progess I have reached today, I give credit to: **Rhea Vichot, _my Proffessor_ & my Dad** both who helped me to get where I am today. Without their help I don't think I could have come to find new found passion for programming. 
  
+ ## Assignment-1_city.pde
+ This is the first project I made in this class. Though this program we learned about basic color infomation, shape funtions and how to set up a basic processing file. 
+ 
+ ## s18magd150lab02_Bateman.pde
+ 
+ ## s18madg150lab03_bateman_done.pde
+ 
+ ## s18magd150lab04_bateman.pde
+ 
+ ## s18madg150lab05_bateman.pde
+ 
 
  
 
