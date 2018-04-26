@@ -18,9 +18,10 @@ All the assignments are written within the program langauge [Processing](https:/
  This the is second project I made in my 150 Magd class. In this project we learned about more shapes that we could draw with, and more ways to use color. The theme was Space.  
  ## s18madg150lab03_bateman_done.pde
  ![window](https://media.giphy.com/media/oHwxcWhY9TeC94n2Sc/giphy-downsized-large.gif)  
- This the third project I made in my 150 Magd class. We learned a few different math properties that could be used in processing. The theme was screensavers. One of my favorite funtions I used in the program was the random(); funtion. I used this to randomly place the raindows thoughout the window. 
+ This the third project I made in my 150 Magd class. We learned a few different math properties and different tpyes of varibles that could be used in processing. The theme was screensavers. One of my favorite funtions I used in the program was the random(); funtion. I used this to randomly place the raindows thoughout the window. 
  ## s18magd150lab04_bateman.pde
-  This the Forth project I made in my 150 Magd class.
+ ![Sunset](https://media.giphy.com/media/30248Td2PHEWWzozJe/giphy.gif)
+  This the Forth project I made in my 150 Magd class. This project we learned more about user interaction. in this project you could click the screen to change the color, and press any key to add a line drawing background. 
  ## s18madg150lab05_bateman.pde
   This the Fifth project I made in my 150 Magd class.
 
