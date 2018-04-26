@@ -10,6 +10,7 @@ All the assignments are written within the program langauge [Processing](https:/
  For my progess I have reached today, I give credit to: **Rhea Vichot, _my Proffessor_ & my Dad** both who helped me to get where I am today. Without their help I don't think I could have come to find new found passion for programming. 
  
  ## Assignment-1_city.pde
+ ![City](https://imgur.com/BKlo0mS)
  This is the first project I made in this class. Though this program we learned about basic color infomation, shape funtions and how to set up a basic processing file. With these new funtions we need to create a sketch with the theme: city. 
  
  ## s18magd150lab02_Bateman.pde
