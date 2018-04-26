@@ -6,6 +6,9 @@ Welcome to the Readme Page for the repository: [madg-150-assignments](https://gi
 All the assignments are written within the program langauge [Processing](https://processing.org/), a language created to help people who are more visually oriented learn how to code.   
 
  ## Background Infomation  
+ 
+ ![City](https://i.imgur.com/BKlo0mS.png)
+ 
  Before working on theses projects I had a small understanding of coding logic, but no knowledge of any programming language. I had in the past attempted to learn a coding language but had not gone anywhere with outside of the small basic tutorials I could find on the internet.   
  For my progess I have reached today, I give credit to: **Rhea Vichot: my Proffessor & my Dad** both who helped me to get where I am today. Without their help I don't think I could have come to find new found passion for programming.   
  
