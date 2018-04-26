@@ -10,16 +10,16 @@ All the assignments are written within the program langauge [Processing](https:/
  For my progess I have reached today, I give credit to: **Rhea Vichot, _my Proffessor_ & my Dad** both who helped me to get where I am today. Without their help I don't think I could have come to find new found passion for programming. 
  
  ## Assignment-1_city.pde
- This is the first project I made in this class. Though this program we learned about basic color infomation, shape funtions and how to set up a basic processing file. 
+ This is the first project I made in this class. Though this program we learned about basic color infomation, shape funtions and how to set up a basic processing file. With these new funtions we need to create a sketch with the theme: city. 
  
  ## s18magd150lab02_Bateman.pde
- 
+ This the is second project I made in my 150 Magd class. In this project we learned about more shapes that we could draw with, and more ways to use color. The theme was Space. 
  ## s18madg150lab03_bateman_done.pde
- 
+ This the third project I made in my 150 Magd class. 
  ## s18magd150lab04_bateman.pde
- 
+  This the Forth project I made in my 150 Magd class.
  ## s18madg150lab05_bateman.pde
- 
+  This the Fifth project I made in my 150 Magd class.
 
  
 
